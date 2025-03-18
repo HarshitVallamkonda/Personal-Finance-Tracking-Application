@@ -1,0 +1,117 @@
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.AssemblyReference.cache
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfoInputs.cache
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfo.cs
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.staticwebassets.endpoints.json
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.exe
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.deps.json
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.runtimeconfig.json
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\scopedcss\bundle\MyDotNetApp.styles.css
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.MyDotNetApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.MyDotNetApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyDotNetApp.props
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyDotNetApp.props
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyDotNetApp.props
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\MyDotNet.5A785590.Up2Date
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\refint\MyDotNetApp.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.genruntimeconfig.cache
+C:\Users\Om Karra\Documents\MyDotNetApp\obj\Debug\net8.0\ref\MyDotNetApp.dll
+C:\Users\Om Karra\Documents\MyDotNetApp\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\appsettings.json
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.staticwebassets.endpoints.json
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.exe
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.deps.json
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.runtimeconfig.json
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.AssemblyReference.cache
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfoInputs.cache
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfo.cs
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\scopedcss\bundle\MyDotNetApp.styles.css
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.MyDotNetApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.MyDotNetApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyDotNetApp.props
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyDotNetApp.props
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyDotNetApp.props
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\MyDotNet.5A785590.Up2Date
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\refint\MyDotNetApp.dll
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.genruntimeconfig.cache
+C:\Users\harsh\Downloads\MyDotNetApp\MyDotNetApp\obj\Debug\net8.0\ref\MyDotNetApp.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\appsettings.json
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.staticwebassets.endpoints.json
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.exe
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.deps.json
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.runtimeconfig.json
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.AssemblyReference.cache
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfoInputs.cache
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfo.cs
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\scopedcss\bundle\MyDotNetApp.styles.css
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.MyDotNetApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.MyDotNetApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyDotNetApp.props
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyDotNetApp.props
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyDotNetApp.props
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\MyDotNet.5A785590.Up2Date
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\refint\MyDotNetApp.dll
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.genruntimeconfig.cache
+C:\Users\harsh\Downloads\MyDotNetApp - Copy\MyDotNetApp\obj\Debug\net8.0\ref\MyDotNetApp.dll
